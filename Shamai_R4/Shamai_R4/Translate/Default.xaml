@@ -1,0 +1,18 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <!--this file part tanslation shamia-->
+
+    <!--Default English-->
+    <system:String x:Key="F">EN</system:String>
+    <system:String x:Key="L">Language</system:String>
+    <system:String x:Key="Lang">English</system:String>
+    <system:String x:Key="TxtSendWaterMark">Type here . . .</system:String>
+    <system:String x:Key="ChannelUi">Select server</system:String>
+    <system:String x:Key="Status">I'm ready</system:String>
+    <system:String x:Key="MenuLanguageToolTip">Select language</system:String>
+    <system:String x:Key="MenuConnectToolTip">Click to connect</system:String>
+    <system:String x:Key="MenuChannels">Connect</system:String>
+    <system:String x:Key="MenuChannelsToolTip">Click channel connect</system:String>
+</ResourceDictionary>
